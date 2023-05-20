@@ -6,5 +6,5 @@ Python programming language turtorial demo's and simple scripts may used for som
 
 ## demos
 
-- [demo_01](./demos/aa.py): half pyramid
-- [demo_02](./demos/ab.py): random HEX color generator
+- [aa.py](./demos/aa.py): half pyramid
+- [ab.py](./demos/ab.py): random HEX color generator

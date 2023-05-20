@@ -4,4 +4,4 @@ PHP programming demos and examples
 
 ## Demos
 
-- [Hello World](./demos/aa.php): Hello World into 😀
+- [aa.php](./demos/aa.php): Hello World into 😀
